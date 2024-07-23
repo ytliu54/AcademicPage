@@ -49,8 +49,8 @@ a:hover {
 }
 
 nav {
-    background: #fff;
-    color: #333;
+    background: #333;
+    color: #fff;
     padding: 20px;
     text-align: center;
 }
@@ -70,7 +70,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: white;
+    color: white !important;
     background-color: #3498db; /* Blue color */
     padding: 8px 16px;
     border-radius: 4px;
